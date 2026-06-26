@@ -1,7 +1,8 @@
 # Reflection — Lab 22 (DPO/ORPO Alignment)
 
-**Tên:** _[Điền tên của bạn]_
-**Cohort:** _[Điền cohort]_
+**Tên:** Bùi Hoàng Linh
+**Cohort:** A20-K1
+**MSSV:** 2A202600804
 **Tier đã chạy:** T4 (custom) — Qwen2.5-1.5B-bnb-4bit trên RTX 3050 6GB
 **Date:** 2026-06-26
 
