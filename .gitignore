@@ -38,3 +38,5 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+unsloth_compiled_cache/
+.commandcode/
